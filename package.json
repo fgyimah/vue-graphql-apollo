@@ -12,7 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "apollo-server": "^2.9.3",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "dotenv": "^8.1.0",
     "graphql": "^14.5.7",
     "gravatar": "^1.8.0",
